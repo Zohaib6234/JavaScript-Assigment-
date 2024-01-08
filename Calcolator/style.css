@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(19, 171, 218);
+display: flex;
+}
+input#getInp {
+        width: 435px;
+        height: 80px;
+        border-radius: 17px;
+        background: lightcyan;
+        font-size: 80px;
+        color: rgb(3, 3, 3);
+    }
+
+
+
+ button{
+    background-color: rgb(39, 136, 35);
+    width: 100PX;
+    height: 120px;
+    align-items: center;
+    border-radius: 10px;
+    font-size: 80px;
+    color: aliceblue;
+    margin: 4px;
+    
+}
+.clr {
+    width: 204px;
+    height: 55px;
+    font-size: 40px;
+    margin: 8px;
+}
